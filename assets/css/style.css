@@ -165,6 +165,13 @@
   }
 }
 
+.pokemon {
+  box-shadow: 4px 16px 31px 14px rgba(0,0,0,0.5) inset;
+  -webkit-box-shadow: 4px 16px 31px 14px rgba(0,0,0,0.5) inset;
+  -moz-box-shadow: 4px 16px 31px 14px rgba(0,0,0,0.5) inset;
+
+}
+
 .pokemon .detail img:hover {
   height: 75px;
  
